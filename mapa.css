@@ -1,0 +1,8 @@
+#map {
+    width: 50%;
+    height: 580px;
+    box-shadow: 5px 5px 5px #888;
+}
+html{
+    background-color: black;
+}
